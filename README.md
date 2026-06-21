@@ -1,2 +1,14 @@
 # huatihuiclub-hub
-HTML page archive and documentation
+
+GitHub Pages 文件记录
+
+这里集中存放 HTML 页面，README 仅用于说明仓库用途。
+
+## 文件说明
+
+- 页面文件直接提交到仓库
+- 仓库说明用于辅助维护
+
+## 归档说明
+
+本仓库用于保存发布产物，不额外承诺页面内容长期不变。
